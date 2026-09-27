@@ -1,0 +1,7 @@
+{
+  "name": "NexCrypto - صرافی ارز دیجیتال و ترمینال ترید",
+  "description": "پلتفرم معاملاتی پیشرفته ارز دیجیتال با معاملات اسپات و فیوچرز، استیکینگ، تبدیل آنی و امنیت چندلایه سازمانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
