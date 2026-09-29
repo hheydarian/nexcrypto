@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/nexcrypto/', // این خط اضافه شد تا مسیر فایل‌ها روی گیت‌هاب درست لود شود
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
